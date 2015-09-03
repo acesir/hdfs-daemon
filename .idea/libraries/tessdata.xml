@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tessdata">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/tessdata" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
